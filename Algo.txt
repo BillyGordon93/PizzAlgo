@@ -1,11 +1,14 @@
 
-1. Call pizza place
-2. Pick a pizza
-3. Pay for the pizza
-4. hold the pizza
-5. eat the pizza
-6. digest the pizza
-7. trow the box away
-8. take the trash out
-9. take the trash to the street
-10. come back inside
+1. Decide which place to order pizza from
+2. Decide wat type of pizza and or food
+3. Call or order online?
+    3a. call pizza place -see step 4
+    3b. Go to website - see step 5
+4. Talk to the cashier
+5. Place order
+6. Wait for delivery
+7. Greet delivery person
+8. Accept order
+9. Did we pay online or over the phone? if not, see step 9a
+    9a. Pay delivery person
+10. Tip delivery person
